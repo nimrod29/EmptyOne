@@ -1,1 +1,1 @@
-active_games
+active_game
