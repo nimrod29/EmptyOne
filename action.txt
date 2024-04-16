@@ -1,1 +1,1 @@
-idle
+active_game
